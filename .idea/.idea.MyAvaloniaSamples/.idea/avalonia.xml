@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="MyAvaloniaSamples/Views/MainWindow.axaml" value="MyAvaloniaSamples/MyAvaloniaSamples.csproj" />
+        <entry key="src/MusicStore/App.axaml" value="src/MusicStore/MusicStore.csproj" />
+        <entry key="src/MusicStore/Icons.axaml" value="src/MusicStore/MusicStore.csproj" />
+        <entry key="src/MusicStore/Views/AlbumView.axaml" value="src/MusicStore/MusicStore.csproj" />
+        <entry key="src/MusicStore/Views/MainWindow.axaml" value="src/MusicStore/MusicStore.csproj" />
+        <entry key="src/MusicStore/Views/MusicStoreView.axaml" value="src/MusicStore/MusicStore.csproj" />
+        <entry key="src/MusicStore/Views/MusicStoreWindow.axaml" value="src/MusicStore/MusicStore.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
